@@ -49,7 +49,9 @@ A ideia foi treinar a criação e organização de componentes em React, trabalh
 ## 📸 Demonstração
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/b81b7b54-9dc4-4559-9d07-5f338ee3918a" />
 
-##📝 Aprendizados
+---
+
+## 📝 Aprendizados
 
 Durante esse projeto, pratiquei:
 
