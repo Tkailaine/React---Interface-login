@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeConnect - Página de Login (React + JSX)
 
 Este projeto foi desenvolvido como prática do curso de **Componentização em JSX com React**, com foco em **criar uma interface de login reutilizando componentes**.  
@@ -64,3 +65,4 @@ Durante esse projeto, pratiquei:
 - Estruturação de um projeto simples em React sem bundlers (Vite/Webpack).
 
 👉 **Esse projeto foi desenvolvido para fins de aprendizado e prática de React.**
+=======
