@@ -44,8 +44,7 @@ A ideia foi treinar a criação e organização de componentes em React, trabalh
 ## ▶️ Como executar o projeto
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-
+   git clone https://github.com/Tkailaine/React---Interface-login.git
 ---
 
 ## 📸 Demonstração
